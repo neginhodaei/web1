@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.number1{
+    background-color: red;
+    height: 50px;
+}
+.number2{
+    background-color: orange;
+    height: 50px;
+}
+.number3{
+    background-color: yellow;
+    height: 50px;
+}
+.number4{
+    background-color: green;
+    height: 50px;
+}
+.number5{
+    background-color: blue;
+    height: 50px;
+}
+.number6{
+    background-color: navy;
+    height: 50px;
+}
+.number7{
+    background-color: violet;
+    height: 50px;
+}

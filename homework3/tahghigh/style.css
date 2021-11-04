@@ -1,0 +1,14 @@
+body{
+    font-size: 30px;
+    font-family: tahoma;
+}
+
+.header{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(1, 49, 82);
+    background-color: rgb(3, 252, 218);
+}
+.image{
+    margin: 30px 280px;
+}

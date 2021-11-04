@@ -1,0 +1,83 @@
+#x{
+    text-align: center;
+}
+.first{
+    color: rgb(25,25,255);
+    font-size: 180px;
+    font-family: arial;
+    display: inline;
+ 
+}
+.second{
+    color: rgb(215,24,24);
+    font-size: 130px;
+    font-family: arial;
+    display: inline;
+   
+}
+.third{
+    color: rgb(220,140,25);
+    font-size: 130px;
+    font-family: arial;
+    display: inline;
+}
+.forth{
+    color: rgb(25,25,255);
+    font-size: 130px;
+    font-family: arial;
+    display: inline;
+
+
+}
+.fifth{
+    color: rgb(1, 73, 1);
+    font-size: 130px;
+    font-family: arial;
+    display: inline;
+
+}
+.sixth{
+    color: rgb(215,24,24);
+    font-size: 130px;
+    font-family: arial;
+    display: inline;
+
+}
+
+#content{
+    text-align: center;
+}
+.content01{
+    color: rgb(25,25,255);
+    font-size: 180px;
+    font-family: arial;
+    
+   
+}
+.content02{
+    color: rgb(215, 24, 24);
+    font-size: 130px;
+    font-family: arial;
+   
+}
+.content03{
+    color: rgb(220,140,25);
+    font-size: 130px;
+    font-family: arial;
+    
+}
+.content04{
+    color: rgb(25,25,255);
+    font-size: 130px;
+    font-family: arial;
+}
+.content05{
+    color: rgb(1, 73, 1);
+    font-size: 130px;
+    font-family: arial;
+}
+.content06{
+    color: rgb(215,24,24);
+    font-size: 130px;
+    font-family: arial;
+}

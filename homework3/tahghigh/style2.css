@@ -1,0 +1,7 @@
+
+img[alt=""]{
+    border: 20px solid yellow;
+}
+img[alt="color wheel"]{
+    border: 20px solid cyan;
+}
